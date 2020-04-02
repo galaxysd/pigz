@@ -24,4 +24,6 @@ $ git branch -av
 
 git checkout AddBlockCompress-BGZip
 git checkout -b galaxy
+
+# git push --set-upstream origin galaxy
 ```
